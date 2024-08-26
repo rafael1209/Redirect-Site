@@ -36,7 +36,7 @@ Simply open the `index.html` file in your browser, and you will be instantly red
 
 ## Customization
 
-- **Redirect URL**: Change the `url` value in the meta tag `<meta http-equiv="refresh" content="0;url=https://t.me/GGGGGGGGGGGGGGGGGGGGGGGGGGG123">` to the URL of your channel.
+- **Redirect URL**: Change the `url` value in the meta tag `<meta http-equiv="refresh" content="0;url=https://google.com">` to the URL of your channel.
 - **Link Preview**: Update the Open Graph and Twitter Card meta tags in the `<head>` section:
   - `og:title` — The title of the link preview.
   - `og:description` — The description of the link preview.
