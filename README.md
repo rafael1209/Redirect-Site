@@ -19,16 +19,9 @@ This HTML file redirects the user to a Telegram channel immediately upon page lo
 1. Download or clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/redirect-to-telegram.git
+    git clone https://github.com/rafael1209/RedirectSite.git
     ```
-
-2. Navigate to the project directory:
-
-    ```bash
-    cd redirect-to-telegram
-    ```
-
-3. Edit the `index.html` file if necessary.
+2. Edit the `index.html` file if necessary.
 
 ## Usage
 
